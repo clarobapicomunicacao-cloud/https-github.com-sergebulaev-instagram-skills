@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "instagram-skills": {
+      "source": {
+        "source": "directory",
+        "path": "."
+      }
+    }
+  },
+  "enabledPlugins": {
+    "instagram-skills@instagram-skills": true
+  }
+}
